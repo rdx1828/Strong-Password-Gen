@@ -1,0 +1,17 @@
+# ************************************************
+# Standard Robots.txt for Strong Password Gen
+# Created for: https://rdx1828.github.io/Strong-Password-Gen/
+# ************************************************
+
+User-agent: *
+Allow: /
+
+# সার্চ ইঞ্জিনকে সাইটম্যাপের লোকেশন জানানো
+Sitemap: https://rdx1828.github.io/Strong-Password-Gen/sitemap.xml
+
+# অপ্রয়োজনীয় বট ব্লক করা (ঐচ্ছিক কিন্তু ভালো)
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
